@@ -21,7 +21,7 @@ https://www.autohotkey.com/
 
 Install (e.g. express install)
 
-Rub Win2MacKeyMapping v.xx.xx.ahk
+Run my script (Win2MacKeyMapping v.xx.xx.ahk)
 (you can see it running in Taskbar tray (green H icon))
 
 Now your win keys should map correctly.
