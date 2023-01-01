@@ -20,7 +20,6 @@ Download autohotkeys current version:
 https://www.autohotkey.com/
 
 Install (e.g. express install)
-Exit
 
 Rub Win2MacKeyMapping v.xx.xx.ahk
 (you can see it running in Taskbar tray (green H icon))
