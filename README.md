@@ -5,6 +5,8 @@ Script should work with any Windows keyboard, but has only been testet with a Wi
 Key mappings are only active when NoMachine Mac Window is active.
 This script will not be maintained and I provide no support.
 
+The script works as intended only when "Grab the keyboard input" is NOT activated in NoMachine.
+
 KeyMappings are divided into three sections:
 Function mappings (copy/cut/paste etc.)
 Character mappings (single characters)
