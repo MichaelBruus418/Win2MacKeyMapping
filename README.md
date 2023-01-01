@@ -3,6 +3,7 @@
 This script maps a Danish Windows keyboard to Mac via AutoHotkey (for use with NoMachine).
 Script should work with any Windows keyboard, but has only been testet with a Win DK keyboard.
 Key mappings are only active when NoMachine Mac Window is active.
+Script has been testet and works with NoMachine v. 7.10.2.
 This script will not be maintained and I provide no support.
 
 The script works as intended only when "Grab the keyboard input" is NOT activated in NoMachine.
