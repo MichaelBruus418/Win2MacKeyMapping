@@ -11,8 +11,7 @@
 
 ; You may want to remove/outcomment X-code shortcuts remapped.
 
-; Michael Bruus, 2022.
-; mb@michaelbruus.dk
+; Michael Bruus, 2023.
 
 ; --- Modifier keys ---
 ; - PC -		- Mac -
