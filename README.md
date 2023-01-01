@@ -13,7 +13,7 @@ Character mappings (single characters)
 X-Code shortcuts remapped (spepcific for X-code editor)
 
 You may want to remove/outcomment X-code shortcuts remapped.
-Michael Bruus, 2022.
+Michael Bruus, 2023.
 
 **********************************
 --- Instructions ---
