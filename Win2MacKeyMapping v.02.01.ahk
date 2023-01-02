@@ -1,11 +1,12 @@
 ﻿; ***********************************************************************************************
 ; This script maps a Danish Windows keyboard to Mac via AutoHotkey (for use with NoMachine).
-; Script should work with any Windows keyboard, but has only been testet with a Win DK keyboard.
+; General mappings (e.g. cut/copy/paste) should work with any keyboard.
+; Special characters probably only works correctly for win DK to mac DK keyboard.
 ; Key mappings are only active when NoMachine Mac Window is active.
 ; This script will not be maintained.
 
 ; KeyMappings are divided into three sections:
-; Function mappings (copy/cut/paste etc.)
+; Function mappings (cut/copy/paste etc.)
 ; Character mappings (single characters)
 ; X-Code shortcuts remapped (spepcific for X-code editor)
 
