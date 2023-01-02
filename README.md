@@ -1,7 +1,8 @@
 # Win2MacKeyMapping
 
-This script maps a Danish Windows keyboard to Mac via AutoHotkey (for use with NoMachine).
-Script should work with any Windows keyboard, but has only been testet with a Win DK keyboard.
+This script maps a Danish Windows keyboard to Danish Mac keyboard via AutoHotkey (for use with NoMachine).
+General mappings (e.g. cut/copy/paste) should work with any keyboard.
+Special characters probably only works correctly for win DK to mac DK keyboard.
 Key mappings are only active when NoMachine Mac Window is active.
 Script has been testet and works with NoMachine v. 7.10.2.
 This script will not be maintained and I provide no support.
